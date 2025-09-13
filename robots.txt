@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jayashree-techfolio.netlify.app/sitemap.xml
