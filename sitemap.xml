@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://jayashree-techfolio.netlify.app/index.html</loc>
+    <lastmod>2025-09-15</lastmod>
   </url>
   <url>
     <loc>https://jayashree-techfolio.netlify.app/about.html</loc>
+    <lastmod>2025-09-15</lastmod>
   </url>
   <url>
     <loc>https://jayashree-techfolio.netlify.app/projects.html</loc>
+    <lastmod>2025-09-15</lastmod>
   </url>
   <url>
     <loc>https://jayashree-techfolio.netlify.app/contact.html</loc>
+    <lastmod>2025-09-15</lastmod>
   </url>
 </urlset>
